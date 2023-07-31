@@ -6,6 +6,6 @@ I am a UTSA student currently majoring in BBA-Cyber Security.
 </div>
 <p> </p>
 <div id="badges">
-  <a href="www.linkedin.com/in/klabyer">
+  <a href="https://www.linkedin.com/in/klabyer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
